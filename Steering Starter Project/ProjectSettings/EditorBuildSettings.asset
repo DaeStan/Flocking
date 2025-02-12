@@ -11,7 +11,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/Scenes/PR01.unity
     guid: 92b74863ceb40904d83f3a3e7646ca9d
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/DV04.unity
     guid: 5c8cc6ab128f76c4796d29eff305360f
+  - enabled: 1
+    path: Assets/Scenes/Flocking PR.unity
+    guid: 939e9d121c381764698c4f6b2a47278d
   m_configObjects: {}
